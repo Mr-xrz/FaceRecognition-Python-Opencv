@@ -1,2 +1,2 @@
 # FaceRecognition-Python-Opencv
-基于opencv使用python的人脸识别
+基于python使用opencv实现的人脸识别
